@@ -1,0 +1,17 @@
+Init:
+Time: 0.177687	0 - 0000019C424FDFB0 - vkCreateInstance
+Time: 0.235892	0 - 0000019C427D2180 - vkCreateDebugReportCallbackEXT
+Time: 0.287457	0 - 0000000000000001 - vkCreateWin32SurfaceKHR
+Time: 2.91956	0 - 0000019C44640D30 - vkCreateDevice
+Time: 2.94978	0 - 0 - vkGetPhysicalDeviceSurfaceFormatsKHR
+Time: 2.98349	0 - 0 - vkGetPhysicalDeviceSurfaceFormatsKHR
+Time: 3.0101	0 - 0 - vkGetPhysicalDeviceSurfaceCapabilitiesKHR
+Time: 3.03668	0 - 0 - vkGetPhysicalDeviceSurfacePresentModesKHR
+Time: 3.06161	0 - 0 - vkGetPhysicalDeviceSurfacePresentModesKHR
+Time: 3.08725	0 - 0000000000000002 - vkCreateCommandPool
+Time: 3.11363	0 - 0000019C47BADA28 - vkAllocateCommandBuffers
+Time: 3.1458	0 - 0000000000000003 - vkCreateFence
+Time: 3.17798	0 - 0000000000000004 - vkCreateRenderPass
+Time: 3.20726	0 - 0 - vkGetPhysicalDeviceSurfaceCapabilitiesKHR
+Time: 3.25964	0 - 0000000000000005 - vkCreateSwapchainKHR
+Time: 3.28695	0
